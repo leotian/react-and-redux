@@ -1,0 +1,10 @@
+### react组件的生命周期
+ 1. 装载过程（Mount）
+    - constructor
+        - 初始化state
+        - 绑定成员函数的this环境
+    - componentWillMount
+    - render
+    - componentDidMount
+ 2. 更新过程（Update）
+ 3. 卸载过程（Unmount）
